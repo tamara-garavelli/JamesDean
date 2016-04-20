@@ -1,0 +1,7 @@
+/* Styles Responsive ici */
+
+@media screen and (max-width: 640px) {
+  body{
+  background: grey;
+  }
+}
